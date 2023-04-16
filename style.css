@@ -1,0 +1,58 @@
+
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+
+}
+  body{
+    margin: 10px;
+    font: italic small-caps bold 16px/2 cursive;  }
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.inside {
+  text-align: center;
+  background-color: rgba(196, 187, 199, 0.14);
+  border: 1px solid black;
+  padding: 0;
+  
+}
+
+.bg{
+  margin-top: 24px;
+}
+
+.heading {
+  float: right;
+  width: 40%;
+  background-color: cadetblue;
+  text-align: center;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+p {
+  clear: right;
+  margin: 0px;
+  text-align: left;
+}
+
+#CHIKEN {
+  background-color: brown;
+}
+#BEEF {
+  background-color:darkorange;
+}
+#SUSHI {
+  background-color: deeppink;
+}
+
+.senteces {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.p-3 {
+  background-color: black;
+}
